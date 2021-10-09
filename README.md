@@ -65,7 +65,4 @@ Fique à vontade para adicionar novas funcionalidades, por exemplo player funcio
 
 Disponibilize em seu repositório público e nos envie por email com assunto **"Analista / Desenvolvedor Pleno"** jutamente com seu currículo para **wilson.sousa@totvs.com.br** até 19/06/2021
 <br>
-"# desafio-frontend-pleno-main" 
-"# desafio-frontend-pleno" 
-# desafio-deezer
 "# desafio-deezer" 
