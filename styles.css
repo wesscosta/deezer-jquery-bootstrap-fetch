@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html, body {
+  height: 100%;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overscroll-behavior: none;
+}
+
+body {
+  background-color: #f7fafc !important;
+  /* background-color: var(--background-primary); */
+  color: #52525d;
+  color: var(--text-intermediate);
+  font-family: Open Sans,Arial,sans-serif;
+  line-height: 1.333333333;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.row{
+  margin-top: 50px;
+  width: 100%;
+}
+
+.tab{
+  text-align: center;
+  display:table-cell;
+
+}
+
+
+.text-center .img-responsive {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body, input, textarea, select, button {
+  font: 500 1rem 'Poppins', sans-serif;
+  letter-spacing: 0.03rem;
+  color: #2D3748 !important;
+}
+
+.topbar {
+  background-color: #f7fafc ;
+  -webkit-box-shadow: 0 3px 0 0 rgba(0,0,0,.06);
+  box-shadow: 0 3px 0 0 rgba(0,0,0,.06);
+  padding: 5px;
+  margin-bottom: 40px;
+  width: 100%;
+  z-index: 2000;
+  float: left;
+}
+
+.nav-main{
+  margin-left: 25%;
+  text-align: center;
+}
+
+.nav-main-item {
+  float: left;
+  height: 80px;
+  line-height: 80px;
+  margin: 0 20px;
+}
+
+
+#logo-deezer, #logo-totvs {
+  width: 200px;
+}
+
+:focus {
+  outline: 0;
+  outline-color: transparent;
+  outline-style: none;
+}
+
+a, button, input {
+  border: none;
+  background: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a, button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+p {
+  margin: 0 !important;
+}
+
+/* You Code CSS */
+/* 
+img {
+  width: 200px;
+} */
+
+#search {
+/* color:white !important; */
+/* font-weight:bold;: */
+margin-right: 10px;
+}
+header {
+  margin: 10px 0;
+}
+
+.col-lg-2 {
+  margin: 0 15px;
+}
+
+.image{
+  width: 25px;
+  height: 25px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
