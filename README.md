@@ -1,9 +1,4 @@
-# 💻💖 TOTVS PI
-
-Parabéns por ser selecionado!
-
-Esperamos que tenha um ótimo desempenho no teste e venha junto com o time construir processos de negócios fantásticos!
-<br>
+# 💻💖 DEEZER
 
 ## O que esperamos? 🤨
 
@@ -61,8 +56,5 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 Fique à vontade para adicionar novas funcionalidades, por exemplo player funcional com preview de 30 segundos da música ou incrementar no design e usabilidade da view.
 <br>
 
-## Entrega:
-
-Disponibilize em seu repositório público e nos envie por email com assunto **"Analista / Desenvolvedor Pleno"** jutamente com seu currículo para **wilson.sousa@totvs.com.br** até 19/06/2021
 <br>
 "# desafio-deezer" 
