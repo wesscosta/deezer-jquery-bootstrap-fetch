@@ -1,26 +1,5 @@
 # 💻💖 DEEZER
 
-## O que esperamos? 🤨
-
-O objetivo principal deste desafio é avaliar sua capacidade de construir uma interfarce utilizando ferramentas semelhantes às que usamos aqui na TOTVS Piauí.
-
-**Importante!** Este desafio é idêntico ao aplicado para nossos candidatos de nível júnior, porém neste aqui seremos mais rigorosos em algumas questões técnicas, fique atento se está implementando o projeto de acordo com os requisitos e diferenciais listados abaixo. Capriche!
-<br>
-
-#### Requisitos que devem constar no projeto são:
-
-- [JQuery](https://jquery.com/)
-- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-<br>
-
-#### Além dos requisitos citados acima, vamos avaliar os seguintes pontos:
-
-- Estrutura Limpa
-- Usabilidade
-- Performance
-<br>
 
 ## Sobre o desafio 🤯
 
@@ -32,6 +11,7 @@ Para isso será utilizado a API do Deezer para requisitar os dados necessários,
 
 O projeto deverá ser entregue em forma de repositório público com as instruções de instalação e execução.
 <br>
+
 
 ## Direcionamento 😇
 ![Preview](images/preview.png)
@@ -46,7 +26,7 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 
 #### Você pode seguir design acima ou não:
 
-- Header com logos da TOTVS PI Digital Workplace e Deezer
+- Header com logos da Deezer
 - Input para pesquisa de músicas (quando em branco deve voltar para a listagem principal)
 - Listagem
 <br>
@@ -54,6 +34,20 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 ## Diferenciais que podem agradar:
 
 Fique à vontade para adicionar novas funcionalidades, por exemplo player funcional com preview de 30 segundos da música ou incrementar no design e usabilidade da view.
+<br>
+#### Requisitos que devem constar no projeto são:
+
+- [JQuery](https://jquery.com/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+<br>
+
+#### Além dos requisitos citados acima, vamos avaliar os seguintes pontos:
+
+- Estrutura Limpa
+- Usabilidade
+- Performance
 <br>
 
 <br>
